@@ -1,0 +1,18 @@
+# Partition images (too large for git)
+partitions/*.img
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.bak
