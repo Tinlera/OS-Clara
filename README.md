@@ -131,29 +131,6 @@ fastboot reboot
 
 ---
 
-## 🔧 Build From Source
-
-Kendi OS Clara sürümünüzü oluşturmak için:
-
-```bash
-# 1. Orijinal ROM'u indir (DyperOS_RODIN_OS3.0.3.0)
-
-# 2. Super.img'yi extract et
-python3 lpunpack_clara.py payload.bin partitions/
-
-# 3. Partition'ları mount et ve değişiklikleri yap
-sudo mount -o loop partitions/product_a.img /mnt/product
-
-# 4. Bloatware'leri kaldır
-# - /mnt/product/app/ altındaki gereksiz APK'ları sil
-# - /mnt/product/priv-app/ altındaki sistem uygulamalarını temizle
-
-# 5. Unmount ve repack
-sudo umount /mnt/product
-```
-
----
-
 ## 📋 Doğrulama
 
 Kurulum sonrası aşağıdakileri kontrol edin:
