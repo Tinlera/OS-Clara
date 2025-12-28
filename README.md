@@ -184,7 +184,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 ## 📞 İletişim
 
 - **Geliştirici:** Methun
-- **GitHub:** [@methun](https://github.com/methun)
+- **GitHub:** [@Tinlera](https://github.com/Tinlera)
 
 ---
 
