@@ -181,13 +181,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ---
 
-## 📞 İletişim
-
-- **Geliştirici:** Methun
-- **GitHub:** [@Tinlera](https://github.com/Tinlera)
-
----
-
 <div align="center">
 
 **OS Clara** - *Poco X7 Pro için Hafif ve Temiz ROM Deneyimi*
